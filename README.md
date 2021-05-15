@@ -7,7 +7,7 @@ ___
 
 ![xSavior-of-God's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSavior-of-God&layout=compact&theme=dark)
 
-![xSavior-of-God's trophy](https://github-profile-trophy.vercel.app/?username=xSavior-of-God&theme=darkhub&row=1&column=8)
+![xSavior-of-God's trophy](https://github-profile-trophy.vercel.app/?username=xSavior-of-God&theme=alduin&row=1&column=8)
 
 
 <!--
