@@ -1,4 +1,14 @@
-### Hi there 👋
+![Hi There](https://readme-typing-svg.herokuapp.com?color=56d364&size=30&vCenter=true&lines=%F0%9F%91%8B+HI+THERE!+)
+___
+
+![xSavior-of-God's stats](https://github-readme-stats.vercel.app/api?username=xSavior-of-God&show_icons=true&theme=dark)
+
+![xSavior-of-God's streak](https://github-readme-streak-stats.herokuapp.com/?user=xSavior-of-God&theme=dark&hide_border=true)
+
+![xSavior-of-God's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSavior-of-God&layout=compact&theme=dark)
+
+![xSavior-of-God's trophy](https://github-profile-trophy.vercel.app/?username=xSavior-of-God&theme=darkhub&row=1&column=8)
+
 
 <!--
 **xSavior-of-God/xSavior-of-God** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
